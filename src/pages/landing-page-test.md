@@ -16,7 +16,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         type: review_item
     type: section_reviews
-  - title: lorem-ipsum
+  - title: Pricing
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
