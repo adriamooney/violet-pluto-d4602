@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Lite
-        price: $5/m
+        price: $7.50/m
         details: |-
           * 1 Automatic Twitter Monitor
           * 1 Automatic Instagram Monitor
