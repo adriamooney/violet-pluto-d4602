@@ -145,5 +145,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/10.jpg
 template: landing
 ---
