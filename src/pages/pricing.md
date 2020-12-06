@@ -10,10 +10,9 @@ sections:
       - title: Lite
         price: $5/m
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * 1 Automatic Twitter Monitor
+          * 1 Automatic Instagram Monitor
+          * 10K Total Word Quota
         actions:
           - label: Order Now
             url: /signup
