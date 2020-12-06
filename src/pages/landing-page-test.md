@@ -106,6 +106,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/people-icon.png
     type: section_features
 template: landing
 ---
