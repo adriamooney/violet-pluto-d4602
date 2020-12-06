@@ -152,5 +152,10 @@ sections:
         type: action
     type: section_hero
     image: images/10.jpg
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 template: landing
 ---
