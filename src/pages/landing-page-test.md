@@ -146,7 +146,7 @@ sections:
     actions:
       - label: Try now
         url: lorem-ipsum
-        primary: true
+        primary: false
         new_window: false
         no_follow: false
         type: action
