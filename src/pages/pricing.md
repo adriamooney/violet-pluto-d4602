@@ -26,7 +26,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: Sign up
             url: /signup
             primary: true
       - title: Enterprise
