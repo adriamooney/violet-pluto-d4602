@@ -93,7 +93,7 @@ sections:
         image: images/homepage-3.png
       - title: ''
         content: >-
-          ## Lorem ipsum
+          ## some feature
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
