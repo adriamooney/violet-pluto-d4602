@@ -9,8 +9,8 @@ sections:
       The platform for deep customer understanding and improved business
       outcomes
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Measure how well you are doing against customer expectations at both
+      emotional and rational levels to create deep customer connections.
     actions:
       - label: Learn More
         url: /features
