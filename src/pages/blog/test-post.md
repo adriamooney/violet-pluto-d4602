@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Post Title hoes here
 subtitle: lorem-ipsum
 date: '2020-12-06'
 excerpt: some excerpt text
