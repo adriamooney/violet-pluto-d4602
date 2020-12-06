@@ -10,6 +10,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: post
+image: images/12.jpg
 ---
 ## This is a post
 
