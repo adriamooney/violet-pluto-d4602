@@ -90,6 +90,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/homepage-3.png
     type: section_features
 template: landing
 ---
