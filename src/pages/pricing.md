@@ -14,7 +14,7 @@ sections:
           * 1 Automatic Instagram Monitor
           * 10K Total Word Quota
         actions:
-          - label: Order Now
+          - label: Sign up
             url: /signup
       - title: Basic
         price: $49/m
