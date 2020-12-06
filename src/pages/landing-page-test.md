@@ -70,7 +70,7 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
-  - title: F
+  - title: Features
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
