@@ -91,7 +91,7 @@ sections:
         actions: []
         type: feature_item
         image: images/homepage-3.png
-      - title: lorem-ipsum
+      - title: ''
         content: >-
           ## Lorem ipsum
 
