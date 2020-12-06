@@ -17,7 +17,7 @@ sections:
           - label: Sign up
             url: /si
       - title: Basic
-        price: $49/m
+        price: $95/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula
