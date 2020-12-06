@@ -18,3 +18,9 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 
 - Lorem ipsum
 - dolor sit amet
+
+![Image](http://app.xmata.io/static/img/plot_shot.png)
+
+Here is some more text
+
+### Heading I am using markdown
