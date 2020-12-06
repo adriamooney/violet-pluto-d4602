@@ -17,7 +17,7 @@ sections:
         actions:
           - label: Order Now
             url: /signup
-      - title: P
+      - title: Basic
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
