@@ -70,5 +70,11 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
 template: landing
 ---
