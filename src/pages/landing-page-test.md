@@ -144,7 +144,7 @@ sections:
       - dolor sit amet
     image_alt: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Try now
         url: lorem-ipsum
         primary: false
         new_window: false
