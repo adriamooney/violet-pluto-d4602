@@ -26,7 +26,7 @@
             },
             {
                 "label": "Landing",
-                "url": "lorem-ipsum",
+                "url": "landing-page-test",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
