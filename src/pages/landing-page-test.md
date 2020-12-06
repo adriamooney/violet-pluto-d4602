@@ -5,7 +5,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - title: lorem-ipsumT
+  - title: Our customers
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
