@@ -1,7 +1,6 @@
 {
     "palette": "purple",
     "header": {
-        "logo_img": "images/xmata-logo-hd.png",
         "has_nav": true,
         "nav_links": [
             {
