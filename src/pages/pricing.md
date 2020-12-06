@@ -15,7 +15,7 @@ sections:
           * 10K Total Word Quota
         actions:
           - label: Sign up
-            url: /signup
+            url: /si
       - title: Basic
         price: $49/m
         details: |-
