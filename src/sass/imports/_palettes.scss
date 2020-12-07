@@ -187,3 +187,65 @@
     }
   }
 }
+
+.palette-teal {
+  a {
+    &:not(.button) {
+      &:hover,
+      &:focus {
+        border-color: _palette(accent-teal);
+        color: _palette(accent-teal);
+      }
+    }
+  }
+
+  blockquote {
+    border-color: _palette(accent-teal);
+  }
+
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  .button {
+    background: _palette(accent-teal);
+    border-color: _palette(accent-teal);
+  }
+
+  .button.secondary {
+    background: transparent;
+    color: _palette(accent-teal);
+  }
+
+  .underline {
+    &:after {
+      border-color: _palette(accent-teal);
+    }
+  }
+
+  .icon-plus {
+    background: _palette(accent-teal);
+  }
+
+  .review-text {
+    &:before {
+      color: _palette(accent-teal);
+    }
+  }
+
+  .plan {
+    &.highlight {
+      .plan-inside {
+        border-color: _palette(accent-teal);
+      }
+    }
+  }
+
+  .block {
+    &.bg-accent {
+      background: _palette(accent-teal);
+      background: -webkit-linear-gradient(left,_palette(accent-teal), _palette(accent-teal-alt));
+      background: linear-gradient(to right,_palette(accent-teal), _palette(accent-teal-alt));
+    }
+  }
+}

@@ -48,6 +48,7 @@ models:
           - purple
           - green
           - orange
+          - teal
         default: blue
       - type: model
         name: header
